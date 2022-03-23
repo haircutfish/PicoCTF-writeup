@@ -31,11 +31,15 @@ _see Flag.pdf for contents_
 3. sh Flag
 
   x - created lock directory _sh00046.
+  
   x - extracting flag (text)
+  
   x - removed lock directory _sh00046.
 
   This runs the file and decrypts it into a file named flag
+  
   running file flag: current ar archive
+  
 
 4. Created a new directory, flagdir, cd flagdir
 
@@ -44,6 +48,7 @@ _see Flag.pdf for contents_
   2 blocks
 
   File created: flag
+  
   running file on flag: bzip2 compressed data, block size = 900k
 
 6. sudo bzip2 -d flag
