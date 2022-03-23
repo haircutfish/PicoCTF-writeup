@@ -26,7 +26,7 @@ sudo apt-get install lzop
 1. __nano Flag.pdf__
 * _see Flag.pdf for contents_
 
-2. Then I saved the file as, Flag.
+2. __Then I saved the file as, Flag.__
 
 3. __sh Flag__
 
