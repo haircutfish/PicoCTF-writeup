@@ -12,9 +12,13 @@ This file was found among some files marked confidential but my pdf reader canno
 ### You need to run these commands below because you will need different types of decryption and decompression
 
 '''sudo apt-get install lz4'''
+
 '''sudo apt-get install lzip'''
+
 '''sudo apt-get install sharutils'''
+
 '''sudo apt-get install 7zip'''
+
 '''sudo apt-get install lzop'''
 
 
@@ -76,22 +80,6 @@ File created: flag
 running file flag: LZMA compressed data
 
 12. '''7z e flag'''
-7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
-p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,4 CPUs Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz (40651),ASM,AES-NI)
-
-Scanning the drive for archives:
-1 file, 264 bytes (1 KiB)
-
-Extracting archive: flag
---
-Path = flag
-Type = lzma
-
-Everything is Ok
-
-Size:       253
-Compressed: 264
-
 File created: flag~
 running file flag~:lzop compressed data
 
