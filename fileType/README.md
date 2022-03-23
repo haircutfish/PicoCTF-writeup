@@ -31,11 +31,11 @@ sudo apt-get install lzop
 
 3. __sh Flag__
 
-  *x - created lock directory _sh00046.
+  >x - created lock directory _sh00046.
   
-  *x - extracting flag (text)
+  >x - extracting flag (text)
   
-  *x - removed lock directory _sh00046.
+  >x - removed lock directory _sh00046.
 
   * This runs the file and decrypts it into a file named flag
   
@@ -46,8 +46,8 @@ sudo apt-get install lzop
 
 5. __cpio -idv < ../flag__
   
-  *flag
-  *2 blocks
+  >flag
+  >2 blocks
 
   * File created: flag
   
@@ -55,7 +55,7 @@ sudo apt-get install lzop
 
 6. __sudo bzip2 -d flag__
 
-  *bzip2: Can't guess original name for flag -- using flag.out
+  >bzip2: Can't guess original name for flag -- using flag.out
 
   * File created: flag.out
   
@@ -87,8 +87,8 @@ sudo apt-get install lzop
 
 11. __lz4 -d Flag.lz4__
 
-  *Decoding file flag 
-  *flag.lz4             : decoded 264 bytes  
+  >Decoding file flag 
+  >flag.lz4             : decoded 264 bytes  
 
   * File created: flag
   
@@ -137,8 +137,8 @@ sudo apt-get install lzop
 
 19. __cat flag__
   
-  *7069636f4354467b66316c656e406d335f6d406e3170756c407431306e5f
-  *6630725f3062326375723137795f32373866316131387d0a
+  >7069636f4354467b66316c656e406d335f6d406e3170756c407431306e5f
+  >6630725f3062326375723137795f32373866316131387d0a
 
 20.  __Went to [Cyber Chef](https://gchq.github.io/CyberChef/)__
   
