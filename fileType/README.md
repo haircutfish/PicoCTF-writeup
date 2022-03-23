@@ -11,7 +11,9 @@ This file was found among some files marked confidential but my pdf reader canno
 
 ### You need to run these commands below because you will need different types of decryption and decompression
 
-'''sudo apt-get install lz4'''
+'''bash
+sudo apt-get install lz4
+'''
 
 '''sudo apt-get install lzip'''
 
